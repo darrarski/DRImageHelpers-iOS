@@ -1,9 +1,9 @@
 //
 //  UIImage+DRImageHelpers.h
-//  F1RST
+//  DRImageHelpers
 //
 //  Created by Dariusz Rybicki on 31/07/14.
-//  Copyright (c) 2014 Vladimir Goranov. All rights reserved.
+//  Copyright (c) 2014 Darrarski. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
